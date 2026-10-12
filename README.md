@@ -299,3 +299,12 @@ every machine.
 
 No license has been specified for this project. Add a license file if
 you intend to distribute or reuse the code publicly.
+
+**Team Details:**
+
+| Name | USN |
+|---|---|
+| Parth Karpe | 01FE24BCI062 |
+| Hrishikesh Patil | 01FE24BCI043 |
+| Vedant Khot | 01FE24BCI028 |
+| Nupur Bagave | 01FE24BCI029 |
